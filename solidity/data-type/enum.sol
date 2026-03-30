@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
-contract Contract {
+contract Enum {
     enum Foods { Apple, Pizza, Bagel, Banana }
 
 	Foods public food1 = Foods.Apple;

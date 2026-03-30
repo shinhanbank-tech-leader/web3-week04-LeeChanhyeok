@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
-contract Contract {
+contract SignedInteger {
     int8 public a = 5;
     int8 public b = -3;
 
